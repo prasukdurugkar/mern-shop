@@ -33,7 +33,7 @@
 ### Clone the project
 
 ```bash
-  git clone https://github.com/RishiBakshii/mern-ecommerce.git
+  git clone [REPO](https://github.com/prasukdurugkar/mern-shop.git)
 ```
 
 ### Navigate to the project directory
